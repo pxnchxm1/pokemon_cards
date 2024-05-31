@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgba(250, 214, 255, 0.671);
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+body {
+  background-color: black;
+
+  height: 100vh;
+}

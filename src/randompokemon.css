@@ -1,0 +1,22 @@
+.RandomPokemon {
+  border-color: beige;
+  border: 20px solid;
+  padding: 1rem;
+  margin-left: 5rem;
+  margin-top: 2rem;
+  background: linear-gradient(
+    to top,
+    rgb(30, 7, 34),
+    rgb(174, 69, 174),
+    rgb(252, 141, 252),
+    rgb(252, 208, 252)
+  );
+  width: 400px;
+}
+.RandomPokemon h2 {
+  color: rgb(11, 8, 9);
+}
+.RandomPokemon img {
+  width: 200px;
+  height: 200px;
+}
